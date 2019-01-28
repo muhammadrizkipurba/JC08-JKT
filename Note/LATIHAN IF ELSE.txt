@@ -1,0 +1,17 @@
+1. Nerima input nama, bing, bind, mtk, ipa
+
+> 85 A
+84 - 76 B
+75 - 66 C
+65 - 50 D
+49 sisanya E
+
+Nama : Alvin
+Dengan nilai akhir : 76
+Index Nilai : B
+Selamat, Anda dinyatakan lulus.
+
+Nama : Alvin
+Dengan nilai akhir : 49
+Index Nilai : E
+Mohon maaf, Anda dinyatakan tidak lulus.
