@@ -1,3 +1,4 @@
+Version 1.0
 Selamat datang di PasarOnline
     daftar menu:
     1. Ayam @ 25.000
@@ -11,6 +12,50 @@ Ingin belanja lagi ?
     jika tidak langsung console.log
 
 alert{
+    Ayam
+    25.000 x jumlah = hasil
+    Ikan
+    50.000 x jumlah = hasil
+    Sapi
+    75.000 x jumlah = hasil
+
+    Total yang harus dibayar
+}
+
+Masukkan Uang
+    Jika kurang dari total biaya
+        Hasil belanja sekian
+        Uang yang anda masukkan kurang sekian
+        Masukkan jumlah uang kembali
+    Jika pas atau lebih maka lanjut
+
+console.log(
+    Data belanjaan
+        barang X jumlah = hasil
+        barang X jumlah = hasil
+        barang X jumlah = hasil
+
+        total belanja
+        Jumlah uang
+        kembali
+)
+
+Version 1.1
+Selamat datang di PasarOnline
+    daftar menu:
+    1. Ayam @ 25.000
+    2. Ikan @ 50.000
+    3. Sapi @ 75.000
+
+Jika memilih selain 1 - 3, munculkan notif dari alert, kemudian minta input ulang
+
+Masukkan jumlah Ayam /  Masukkan jumlahIkan / Masukkan jumlahSapi
+
+Ingin belanja lagi ?
+    jika iya akan kembali ke menu awal
+    jika tidak langsung console.log
+
+prompt{
     Ayam
     25.000 x jumlah = hasil
     Ikan
